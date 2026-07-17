@@ -102,9 +102,9 @@ This project helped me understand:
 
  Author
 
-'Manjunatha'
+'Swayam N Gowda'
 
-B.Tech – Information Science & Engineering
+B.Tech – Computer Science & Technology
 
 Python Developer | Machine Learning Enthusiast
 
