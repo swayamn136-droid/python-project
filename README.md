@@ -106,7 +106,7 @@ This project helped me understand:
 
 B.Tech – Computer Science & Technology
 
-Python Developer | Machine Learning Enthusiast
+Python Developer | 
 
 License:
 
